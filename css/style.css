@@ -478,7 +478,7 @@ button::-moz-focus-inner {
   font-family: Chinese;
   font-style: normal;
   font-weight: normal;
-  src: url("fonts/KozMinPr6N-Medium.otf");
+  src: url("fonts/KozMinPr6N-Regular.otf");
 }
 @font-face {
   font-family: Chinese;
